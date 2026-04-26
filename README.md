@@ -19,11 +19,19 @@ Wiki Notes is an AI-powered knowledge platform inspired by Andrej Karpathy's "LL
 ### Knowledge graph
 Wiki Notes knowledge graph: force-directed layout, clusters, and links
 
+<p align="center">
+  <img src="assets/screenshots/knowledge-graph.png" alt="Wiki Notes knowledge graph view" width="100%" />
+</p>
+
 ### Query and write-back
 Wiki Notes query bar, answer, and graph context
 
 ### Ingest
 Wiki Notes document upload and batch ingest UI
+
+<p align="center">
+  <img src="assets/screenshots/ingest-modal.png" alt="Wiki Notes ingest modal" width="100%" />
+</p>
 
 ### Demo walkthrough (GIF)
 Screen recording: ingest, generate, query, graph updates, refactor
